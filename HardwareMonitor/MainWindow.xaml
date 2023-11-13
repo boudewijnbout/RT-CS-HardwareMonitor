@@ -9,6 +9,7 @@
     <Grid>
         <StackPanel>
             <TextBlock x:Name="lblCPUName" Text="CPU Name:" />
+            <TextBlock x:Name="lblCPUsage" Text="CPU Usage:" />
         </StackPanel>
     </Grid>
 </Window>
